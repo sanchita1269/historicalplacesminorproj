@@ -1,4 +1,4 @@
-# historicalplacesminorproj
+# Historical Places Minor Project
 A minor web based project based on HIstorical places of India using HTML, CSS
 
 Img 1:
